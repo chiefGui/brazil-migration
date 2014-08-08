@@ -43,6 +43,6 @@ Após a clonagem, os models já estarão nos seus devidos lugares com as suas de
 2. `state.rb`, para estados;
 3. `city.rb`, para cidades.
 
-### Licensa
+### Licença
 
 MIT.
