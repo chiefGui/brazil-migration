@@ -1,4 +1,4 @@
-# Brazil Migration
+# Brazil Migration [![Code Climate](https://codeclimate.com/github/chiefGui/brazil-migration/badges/gpa.svg)](https://codeclimate.com/github/chiefGui/brazil-migration)
 Se você estiver precisando de uma relação das cidades e estados brasileiros para a sua aplicação Rails que utiliza MySQL ou MariaDB como banco de dados, essa migration irá servir.
 
 ### Requisitos
