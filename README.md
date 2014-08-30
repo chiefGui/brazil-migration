@@ -9,7 +9,7 @@ Se você estiver precisando de uma relação das cidades e estados brasileiros p
 - ActiveRecord
 
 ### Instalação
-Clone este repositório no diretório da sua aplicação. Para isso, navegue até a tal pasta e digite no seu terminal ou prompt:
+Faça a clonagem deste repositório no diretório da sua aplicação. Para isso, navegue até a tal pasta e digite no seu terminal ou prompt:
 
 ```
 git clone https://github.com/chiefGui/brazil-migration .
